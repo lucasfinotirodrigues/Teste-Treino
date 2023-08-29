@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build":"gradle build",
+        "start":"gradle appRun"
+    }
+}
